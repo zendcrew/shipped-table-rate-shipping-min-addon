@@ -37,8 +37,14 @@ if ( !class_exists( 'WTARS_Shipped_Min_Init' ) ) {
         }
 
         public function plugin_loaded() {
+            
+            if ( !defined( 'WTARS_SHIPPED_PREMIUM_FILE' ) ) { // check for premium version
+                
+                return;
+            }
 
             if ( function_exists( 'WC' ) ) { // Check whether WooCommerce is active
+                
                 $this->main();
             }
         }
