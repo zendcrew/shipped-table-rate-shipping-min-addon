@@ -10,11 +10,11 @@
  * Text Domain: shipped-table-rate-min-shipping
  * Domain Path: /languages/
  * Requires at least: 5.8
- * Tested up to: 6.2.2
+ * Tested up to: 6.3
  * Requires PHP: 5.6
  * 
  * WC requires at least: 5.6
- * WC tested up to: 7.9
+ * WC tested up to: 8.0
  */
 
 if ( !defined( 'WTARS_SHIPPED_MIN_FILE' ) ) {

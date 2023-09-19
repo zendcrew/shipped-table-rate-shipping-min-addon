@@ -1,0 +1,116 @@
+# Copyright (C) 2023 zendcrew
+# This file is distributed under the same license as the Shipped Minimum Shipping Costs (Add-On) plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Shipped Minimum Shipping Costs (Add-On) 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/shipped-table-"
+"rate-shipping-min-addon\n"
+"POT-Creation-Date: 2023-09-19T06:21:39+02:00\n"
+"PO-Revision-Date: 2023-09-19 05:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Domain: shipped-table-rate-min-shipping\n"
+
+#. Plugin Name of the plugin
+msgid "Shipped Minimum Shipping Costs (Add-On)"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid ""
+"https://codecanyon.net/item/woocommerce-table-rate-shipping/39691473?"
+"ref=zendcrew"
+msgstr ""
+
+#. Description of the plugin
+msgid "Sets minimum shipping costs and fees"
+msgstr ""
+
+#. Author of the plugin
+msgid "zendcrew"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codecanyon.net/user/zendcrew/portfolio?ref=zendcrew"
+msgstr ""
+
+#: admin/cart-fees-panel-options.php:37
+msgid "Apply Minimum Fee"
+msgstr ""
+
+#: admin/cart-fees-panel-options.php:38
+msgid "Choose whether or no minimum shipping fee should be applied"
+msgstr ""
+
+#: admin/cart-fees-panel-options.php:41
+msgid "No, Do not apply minimum fee"
+msgstr ""
+
+#: admin/cart-fees-panel-options.php:42
+msgid "Yes, Apply fixed minimum fee"
+msgstr ""
+
+#: admin/cart-fees-panel-options.php:43
+msgid "Yes, Apply percentage minimum fee"
+msgstr ""
+
+#: admin/cart-fees-panel-options.php:54
+msgid "Minimum Fee"
+msgstr ""
+
+#: admin/cart-fees-panel-options.php:55
+msgid "Specify the minimum shipping fee"
+msgstr ""
+
+#: admin/cart-fees-panel-options.php:57
+#: admin/shipping-rates-panel-options.php:57
+msgid "0.00"
+msgstr ""
+
+#: admin/cart-fees-panel-options.php:76
+#: admin/shipping-rates-panel-options.php:76
+msgid "Percentage - Based On"
+msgstr ""
+
+#: admin/cart-fees-panel-options.php:77
+msgid ""
+"Choose the basis for the percentage-based minimum shipping fee calculation"
+msgstr ""
+
+#: admin/shipping-rates-panel-options.php:37
+msgid "Apply Minimum Cost"
+msgstr ""
+
+#: admin/shipping-rates-panel-options.php:38
+msgid "Choose whether or no minimum shipping cost should be applied"
+msgstr ""
+
+#: admin/shipping-rates-panel-options.php:41
+msgid "No, Do not apply minimum cost"
+msgstr ""
+
+#: admin/shipping-rates-panel-options.php:42
+msgid "Yes, Apply fixed minimum cost"
+msgstr ""
+
+#: admin/shipping-rates-panel-options.php:43
+msgid "Yes, Apply percentage minimum cost"
+msgstr ""
+
+#: admin/shipping-rates-panel-options.php:54
+msgid "Minimum Cost"
+msgstr ""
+
+#: admin/shipping-rates-panel-options.php:55
+msgid "Specify the minimum shipping cost"
+msgstr ""
+
+#: admin/shipping-rates-panel-options.php:77
+msgid ""
+"Choose the basis for the percentage-based minimum shipping cost calculation"
+msgstr ""
