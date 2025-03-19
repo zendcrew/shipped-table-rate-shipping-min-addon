@@ -4,7 +4,7 @@
  * Plugin Name: Shipped Minimum Shipping Costs (Add-On)
  * Plugin URI: https://codecanyon.net/item/woocommerce-table-rate-shipping/39691473?ref=zendcrew
  * Description: Sets minimum shipping costs and fees
- * Version: 1.2
+ * Version: 1.2.1
  * Author: zendcrew
  * Author URI: https://codecanyon.net/user/zendcrew/portfolio?ref=zendcrew
  * Text Domain: shipped-table-rate-min-shipping
@@ -13,8 +13,8 @@
  * Requires PHP: 5.6
  * WC requires at least: 5.6
  * 
- * Tested up to: 6.6
- * WC tested up to: 9.2
+ * Tested up to: 6.7
+ * WC tested up to: 9.7
  */
 
 if ( !defined( 'WTARS_SHIPPED_MIN_FILE' ) ) {
@@ -32,6 +32,11 @@ if ( !class_exists( 'WTARS_Shipped_Min_Init' ) ) {
             add_action( 'plugins_loaded', array( $this, 'plugin_loaded' ), 3 );
 
             add_action( 'before_woocommerce_init', array( $this, 'before_woocommerce_init' ) );
+
+            add_action( 'init', array( $this, 'load_textdomain' ) );
+        }
+        
+        public function load_textdomain() {
 
             load_plugin_textdomain( 'shipped-table-rate-min-shipping', false, dirname( plugin_basename( WTARS_SHIPPED_MIN_FILE ) ) . '/languages/' );
         }
