@@ -24,7 +24,7 @@ if ( !class_exists( 'WTARS_Shipped_Min_Main' ) ) {
 
             if ( is_admin() ) {
 
-                add_action( 'reon/init', array( $this, 'load_admin_page' ) );
+                add_action( 'init', array( $this, 'load_admin_page' ) );
             }
 
             add_action( 'woocommerce_init', array( $this, 'init_public' ) );

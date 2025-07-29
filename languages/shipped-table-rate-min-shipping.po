@@ -49,76 +49,76 @@ msgstr ""
 msgid "https://codecanyon.net/user/zendcrew/portfolio?ref=zendcrew"
 msgstr ""
 
-#: admin/cart-fees-panel-options.php:37
+#: admin/cart-fees-panel-options.php:41
 msgid "Apply Minimum Fee"
 msgstr ""
 
-#: admin/cart-fees-panel-options.php:38
+#: admin/cart-fees-panel-options.php:42
 msgid "Choose whether or no minimum shipping fee should be applied"
 msgstr ""
 
-#: admin/cart-fees-panel-options.php:41
+#: admin/cart-fees-panel-options.php:45
 msgid "No, Do not apply minimum fee"
 msgstr ""
 
-#: admin/cart-fees-panel-options.php:42
+#: admin/cart-fees-panel-options.php:46
 msgid "Yes, Apply fixed minimum fee"
 msgstr ""
 
-#: admin/cart-fees-panel-options.php:43
+#: admin/cart-fees-panel-options.php:47
 msgid "Yes, Apply percentage minimum fee"
 msgstr ""
 
-#: admin/cart-fees-panel-options.php:54
+#: admin/cart-fees-panel-options.php:58
 msgid "Minimum Fee"
 msgstr ""
 
-#: admin/cart-fees-panel-options.php:55
+#: admin/cart-fees-panel-options.php:59
 msgid "Specify the minimum shipping fee"
 msgstr ""
 
-#: admin/cart-fees-panel-options.php:57
-#: admin/shipping-rates-panel-options.php:57
+#: admin/cart-fees-panel-options.php:61
+#: admin/shipping-rates-panel-options.php:61
 msgid "0.00"
 msgstr ""
 
-#: admin/cart-fees-panel-options.php:76
-#: admin/shipping-rates-panel-options.php:76
+#: admin/cart-fees-panel-options.php:80
+#: admin/shipping-rates-panel-options.php:80
 msgid "Percentage - Based On"
 msgstr ""
 
-#: admin/cart-fees-panel-options.php:77
+#: admin/cart-fees-panel-options.php:81
 msgid "Choose the basis for the percentage-based minimum shipping fee calculation"
 msgstr ""
 
-#: admin/shipping-rates-panel-options.php:37
+#: admin/shipping-rates-panel-options.php:41
 msgid "Apply Minimum Cost"
 msgstr ""
 
-#: admin/shipping-rates-panel-options.php:38
+#: admin/shipping-rates-panel-options.php:42
 msgid "Choose whether or no minimum shipping cost should be applied"
 msgstr ""
 
-#: admin/shipping-rates-panel-options.php:41
+#: admin/shipping-rates-panel-options.php:45
 msgid "No, Do not apply minimum cost"
 msgstr ""
 
-#: admin/shipping-rates-panel-options.php:42
+#: admin/shipping-rates-panel-options.php:46
 msgid "Yes, Apply fixed minimum cost"
 msgstr ""
 
-#: admin/shipping-rates-panel-options.php:43
+#: admin/shipping-rates-panel-options.php:47
 msgid "Yes, Apply percentage minimum cost"
 msgstr ""
 
-#: admin/shipping-rates-panel-options.php:54
+#: admin/shipping-rates-panel-options.php:58
 msgid "Minimum Cost"
 msgstr ""
 
-#: admin/shipping-rates-panel-options.php:55
+#: admin/shipping-rates-panel-options.php:59
 msgid "Specify the minimum shipping cost"
 msgstr ""
 
-#: admin/shipping-rates-panel-options.php:77
+#: admin/shipping-rates-panel-options.php:81
 msgid "Choose the basis for the percentage-based minimum shipping cost calculation"
 msgstr ""
